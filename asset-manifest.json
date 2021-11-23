@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/integra-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/integra-react/static/js/main.4521a27f.chunk.js",
+    "main.js.map": "/integra-react/static/js/main.4521a27f.chunk.js.map",
+    "runtime-main.js": "/integra-react/static/js/runtime-main.eb641410.js",
+    "runtime-main.js.map": "/integra-react/static/js/runtime-main.eb641410.js.map",
+    "static/js/2.e8992c10.chunk.js": "/integra-react/static/js/2.e8992c10.chunk.js",
+    "static/js/2.e8992c10.chunk.js.map": "/integra-react/static/js/2.e8992c10.chunk.js.map",
+    "static/js/3.c411cc1c.chunk.js": "/integra-react/static/js/3.c411cc1c.chunk.js",
+    "static/js/3.c411cc1c.chunk.js.map": "/integra-react/static/js/3.c411cc1c.chunk.js.map",
+    "index.html": "/integra-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/integra-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e8992c10.chunk.js.LICENSE.txt": "/integra-react/static/js/2.e8992c10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb641410.js",
+    "static/js/2.e8992c10.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4521a27f.chunk.js"
+  ]
+}
