@@ -8,6 +8,27 @@ class CounterComponent extends Component {
         }
     } 
 
+    componentDidMount () {
+        console.log("Mounting Phase , componentDidMount")
+    }
+
+    componentDidUpdate () {
+        console.log("Updating Phase , componentDidUpdate")
+    }
+
+    shouldComponentUpdate (props , toBeUpdatedValue) {
+        console.log(toBeUpdatedValue)
+        if(toBeUpdatedValue.initialValue < 0) {
+            return false;
+        }
+        else
+        return true;
+    }
+
+    componentWillUnmount () {
+        console.log("Unmounting Phase , componentWillUnmount")
+    }
+
     handleIncrement = () => {
         this.setState({initialValue: this.state.initialValue + 1})
     }
